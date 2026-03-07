@@ -17,4 +17,5 @@ Project Management: Beyond code, GitHub offers features for managing projects, i
 Automation: Through features like GitHub Actions, developers can automate workflows such as testing and deployment (Continuous Integration/Continuous Deployment).
 Community and Hosting: It hosts a vast array of public and private projects, making it a hub for open-source contributions and a networking site for developers. It can also be used to host static websites via GitHub Pages. 
 
-this  is just for demo only 
+this  is just for demo only  
+Now the developmemt is top for 2wk
